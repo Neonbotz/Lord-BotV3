@@ -28,7 +28,7 @@ let handler = async (m, { conn }) => {
 
 ◪ *Jika Minat Hubungi owner kami*
 ◪ *Atau Masuk Group Official Bot*
-_https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe_
+_https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV_
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `.trim(), `${wm}`, 'Payment', '#payment', 'Owner', '#Nowner', m)
